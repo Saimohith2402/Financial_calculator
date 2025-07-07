@@ -25,12 +25,6 @@ A powerful personal finance tool built with **Streamlit** that helps middle-clas
 
 ---
 
-## 📸 Preview
-
-![dashboard](https://user-images.githubusercontent.com/your-placeholder-image.png)  
-*Visual card-based dashboard with modern dark theme*
-
----
 
 ## 🔧 How to Run Locally
 
