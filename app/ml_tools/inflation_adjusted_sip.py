@@ -1,4 +1,3 @@
-# app/ml_tools/inflation_adjusted_sip.py
 import streamlit as st
 import pandas as pd
 import numpy as np
