@@ -30,7 +30,7 @@ A powerful personal finance tool built with **Streamlit** that helps middle-clas
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/finance-calculator-app.git
+git clone https://github.com/Saimohith2402/finance-calculator-app.git
 cd finance-calculator-app
 
 # 2. Install dependencies
