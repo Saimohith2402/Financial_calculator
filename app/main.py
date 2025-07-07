@@ -1,9 +1,8 @@
-# app/main.py
 import streamlit as st
 from calculators import home_loan_emi, sip, step_up_sip, lumpsum_investment
 from ml_tools import inflation_forecast, retirement_planner, inflation_adjusted_sip
 from utils.common import set_page_config
-from utils import export  # For CSV/PDF support
+from utils import export
 
 # Configure page
 set_page_config()
