@@ -6,3 +6,4 @@ fpdf
 yfinance
 prophet
 plotly
+scikit-learn
